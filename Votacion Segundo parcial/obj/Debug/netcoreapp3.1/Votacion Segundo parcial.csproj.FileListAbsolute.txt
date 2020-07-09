@@ -1,0 +1,13 @@
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.AssemblyInfo.cs
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.exe
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.deps.json
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.runtimeconfig.json
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.runtimeconfig.dev.json
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.dll
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\bin\Debug\netcoreapp3.1\Votacion Segundo parcial.pdb
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.dll
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.pdb
+C:\Users\adria\source\repos\Votacion Segundo parcial\Votacion Segundo parcial\obj\Debug\netcoreapp3.1\Votacion Segundo parcial.genruntimeconfig.cache
